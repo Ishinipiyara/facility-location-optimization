@@ -35,7 +35,7 @@ The project was developed using Python and PuLP.
 | `facility_location_model.py` | Main optimization code |
 | `Facility_Location_Report.pdf` | Final project report |
 | `supply_chain_network_map.html` | Interactive supply chain map |
-| `Facility_Location_Report.tex` | LaTeX source file |
+| `Facility Location LaTex Source.rar` | LaTeX source file |
 
 ## Results
 
